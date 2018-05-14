@@ -1,5 +1,5 @@
 {
-  "name": "search-itinaries-on-itinary",
+  "name": "search-itineraries-under-max-time",
   "version": "1.0.0",
   "description": "A module to search itinaries on another itinary with a given added time. ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Terafu/search-itinary-on-itinary.git"
+    "url": "git+https://github.com/eco-transports-campus/search-itineraries-under-max-time.git"
   },
   "keywords": [
     "ETC"
@@ -16,9 +16,9 @@
   "author": "Terafu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Terafu/search-itinary-on-itinary/issues"
+    "url": "https://github.com/eco-transports-campus/search-itineraries-under-max-time/issues"
   },
-  "homepage": "https://github.com/Terafu/search-itinary-on-itinary#readme",
+  "homepage": "https://github.com/eco-transports-campus/search-itineraries-under-max-time#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "calcul-time-distances": "^1.1.2",
